@@ -20,5 +20,5 @@ gray: gray image of original image
 
 rotate: rotated image of original image
 
-using transform matrix: using transformation matrix (calculated by gray and rotated images), rotate the original matrix
+using transform matrix: using transformation matrix (calculated by gray and rotated images), rotate the original image
 
